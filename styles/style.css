@@ -14,7 +14,126 @@
   block-size: max(100vb, 668px);
 }
 
+.decorations {
+
+}
+
 .header__rec {
   position: absolute;
-  display: ;
+}
+
+.header__theme-menu {
+
+}
+
+.header__theme-menu-list {
+
+}
+
+.header__theme-menu-item {
+
+}
+
+.header__theme-menu-button {
+
+}
+
+.header__theme-menu-button_type_light {
+
+}
+
+.header__theme-menu-button_active {
+
+}
+
+.header__theme-menu-button_type_auto {
+
+}
+
+.header__theme-menu-button_type_dark {
+
+}
+
+.header__container {
+
+}
+
+.header__title {
+
+}
+
+.header__subtitle {
+
+}
+
+.title-decor {
+
+}
+
+.main {
+
+}
+
+.main__section {
+
+}
+
+.main__section-title {
+
+}
+
+.main__section-block {
+
+}
+
+.main__section-block-title {
+
+}
+
+.main_section-block-text {
+
+}
+
+.main__section-titular {
+
+}
+
+.main__section-block-subtitular {
+
+}
+
+.image {
+
+}
+
+.image__sunset {
+
+}
+
+.image__ice-cream {
+
+}
+
+.image__tape {
+
+}
+
+.image__books {
+
+}
+
+.image__street {
+
+}
+
+.footer {
+
+}
+
+.decorations {
+
+}
+
+.footer-title {
+  
 }
