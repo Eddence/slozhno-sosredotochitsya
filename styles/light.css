@@ -19,8 +19,9 @@
   --text-color: #353430;
   --main-font: "IBM Plex Mono", "monospace";
   --main-font-size: 18px;
-  --main-font-size-title: clamp(7.25rem, 7.35rem, 7.5rem);
-  --font-size-default: clamp(7.5rem, 8.6rem, 9.8rem);
+  --main-font-size-title: clamp(7.25rem, 9.9rem, 10.5rem);
+  --main-font-size-title-table: clamp(7.25rem, 7.3rem, 10.5rem);
+  --font-size-default: clamp(7.5rem, 9.9rem, 10.5rem);
   --bg-img: url(../images/cover-image-light.png);
 }
 
