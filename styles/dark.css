@@ -17,6 +17,7 @@
   --decoration-color: #ff0070;
   --section-text-color: #ff0070;
   --button-color: #ff0070;
+  --title-button-color: rgba(50, 49, 45, 0.4);
   --text-color: #f1b2ce;
   --bg-img: url(../images/cover-image-dark.png);
 }
@@ -26,7 +27,7 @@
 }
 
 .header__theme-menu-button:hover {
-  outline: 1px solid rgba(50, 49, 45, 0.4);
+  outline: 1px solid var(--title-button-color);
 }
 
 
@@ -40,6 +41,7 @@
   --decoration-color: #ff0070;
   --section-text-color: #ff0070;
   --button-color: #ff0070;
+  --title-button-color: rgba(50, 49, 45, 0.4);
   --text-color: #f1b2ce;
   --bg-img: url(../images/cover-image-dark.png);
   }
